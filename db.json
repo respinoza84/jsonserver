@@ -18,7 +18,7 @@
       },
       {
         "id": 3,
-        "title": "Web",
+        "title": "React",
         "description": "HTML , CSS & JS + Reponsive",
         "imgUrl": "https://i.postimg.cc/Y99C7bfM/Proj3.png",
         "gitLink": "https://github.com/mfghir/third-web-proj",
@@ -26,8 +26,16 @@
       },
       {
         "id": 4,
-        "title": "Web",
+        "title": "React",
         "description": "HTML , CSS & JS + Reponsive",
+        "imgUrl": "https://i.postimg.cc/kXrRNPvS/Proj4.png",
+        "gitLink": "https://github.com/mfghir/fourth-web-proj",
+        "netlifyLink": "https://web-proj-four.netlify.app"
+      },
+      {
+        "id": 4,
+        "title": "React",
+        "description": "HTML , CSS & JS ",
         "imgUrl": "https://i.postimg.cc/kXrRNPvS/Proj4.png",
         "gitLink": "https://github.com/mfghir/fourth-web-proj",
         "netlifyLink": "https://web-proj-four.netlify.app"
