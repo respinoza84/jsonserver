@@ -1,4 +1,5 @@
-[
+{
+  "filterWork": [
     {
       "id": 1,
       "title": "Web",
@@ -48,4 +49,4 @@
       "netlifyLink": "https://web-proj-four.netlify.app"
     }
   ]
-
+}
