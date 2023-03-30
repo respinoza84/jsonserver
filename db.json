@@ -3,50 +3,50 @@
     {
       "id": 1,
       "title": "Web",
-      "description": "HTML & CSS",
-      "imgUrl": "https://i.postimg.cc/xCxqNWTX/Proj1.png",
-      "gitLink": "https://github.com/mfghir/first-web-proj",
-      "netlifyLink": "https://web-proj-one.netlify.app"
+      "description": "HTML, CSS, AngularJS, TS, ANgular2",
+      "imgUrl": "https://i.postimg.cc/x10brzZr/Screen-Shot-2023-03-30-at-11-50-00.png",
+      "gitLink": "",
+      "netlifyLink": "https://www.youngliving.com/"
     },
     {
       "id": 2,
       "title": "Web",
-      "description": "HTML & CSS",
-      "imgUrl": "https://i.postimg.cc/q7p7bkNt/Proj2.png",
-      "gitLink": "https://github.com/mfghir/second-web-proj",
-      "netlifyLink": "https://web-proj-two.netlify.app"
+      "description": "HTML & CSS & Angular restApi",
+      "imgUrl": "https://i.postimg.cc/kXMfsBy4/Zy27f.png",
+      "gitLink": "https://github.com/respinoza84/web-api-angular",
+      "netlifyLink": ""
     },
     {
       "id": 3,
       "title": "React",
       "description": "HTML , CSS & JS + Reponsive",
-      "imgUrl": "https://i.postimg.cc/Y99C7bfM/Proj3.png",
-      "gitLink": "https://github.com/mfghir/third-web-proj",
-      "netlifyLink": "https://web-proj-three.netlify.app"
+      "imgUrl": "https://i.postimg.cc/135cG2sN/Screen-Shot-2023-03-30-at-14-53-31.png",
+      "gitLink": "https://github.com/respinoza84/portfolio",
+      "netlifyLink": "https://rodneyespinoza.com/"
     },
     {
       "id": 4,
       "title": "React",
-      "description": "HTML , CSS & JS + Reponsive",
-      "imgUrl": "https://i.postimg.cc/kXrRNPvS/Proj4.png",
-      "gitLink": "https://github.com/mfghir/fourth-web-proj",
-      "netlifyLink": "https://web-proj-four.netlify.app"
+      "description": "HTML , CSS & JS + Graphql",
+      "imgUrl": "https://i.postimg.cc/rmY9s9vt/Screen-Shot-2023-03-30-at-14-51-36.png",
+      "gitLink": "https://github.com/respinoza84/HRReactApp",
+      "netlifyLink": "https://app.hrmango.com/login"
     },
     {
       "id": 5,
       "title": "React",
       "description": "HTML , CSS & JS ",
-      "imgUrl": "https://i.postimg.cc/kXrRNPvS/Proj4.png",
-      "gitLink": "https://github.com/mfghir/fourth-web-proj",
-      "netlifyLink": "https://web-proj-four.netlify.app"
+      "imgUrl": "https://i.postimg.cc/KcW2hSsm/Screen-Shot-2023-03-30-at-14-57-44.png",
+      "gitLink": "https://github.com/respinoza84/react-Frame-Slider",
+      "netlifyLink": "https://framer-slider-react-app.netlify.app/"
     },
     {
       "id": 6,
       "title": "Js",
       "description": "Node.js & Mongo",
-      "imgUrl": "https://i.postimg.cc/kXrRNPvS/Proj4.png",
-      "gitLink": "https://github.com/mfghir/fourth-web-proj",
-      "netlifyLink": "https://web-proj-four.netlify.app"
+      "imgUrl": "https://i.postimg.cc/7hwqCg0w/crud-express-mongo.png",
+      "gitLink": "https://github.com/respinoza84/mongoRepo",
+      "netlifyLink": ""
     }
   ]
 }
