@@ -30,53 +30,5 @@
   "imgUrl": "https://i.postimg.cc/kXrRNPvS/Proj4.png",
   "gitLink": "https://github.com/mfghir/fourth-web-proj",
   "netlifyLink": "https://web-proj-four.netlify.app"
-  },
-  {
-  "id": 5,
-  "title": "Web",
-  "description": "HTML , CSS & JS + Reponsive",
-  "imgUrl": "https://i.postimg.cc/XJz7YdQF/Proj5.png",
-  "gitLink": "https://github.com/mfghir/fifth-web-proj",
-  "netlifyLink": "https://web-proj-five-prevmyweb.netlify.app"
-  },
-  {
-  "id": 6,
-  "title": "Web",
-  "description": "HTML , CSS & JS + Reponsive",
-  "imgUrl": "https://i.postimg.cc/YS8CTJFd/Proj6.png",
-  "gitLink": "https://github.com/mfghir/sixth-web-proj",
-  "netlifyLink": "https://web-proj-six-prevmyweb.netlify.app"
-  },
-  {
-  "id": 7,
-  "title": "Web",
-  "description": "HTML , CSS & JS + Reponsive",
-  "imgUrl": "https://i.postimg.cc/g2HhktRZ/Proj7.png",
-  "gitLink": "https://github.com/mfghir/seventh-web-proj",
-  "netlifyLink": "https://web-proj-seven.netlify.app"
-  },
-  {
-  "id": 8,
-  "title": "Web",
-  "description": "HTML , CSS & JS + Reponsive",
-  "imgUrl": "https://i.postimg.cc/W4fhhB4h/Proj8.png",
-  "gitLink": "https://github.com/mfghir/eight-web-proj",
-  "netlifyLink": "https://web-proj-eight.netlify.app"
-  },
-  {
-  "id": 9,
-  "title": "Web",
-  "description": "HTML , CSS & JS + Reponsive",
-  "imgUrl": "https://i.postimg.cc/sxWQFTs1/Proj9.png",
-  "gitLink": "https://github.com/mfghir/nine-web-proj",
-  "netlifyLink": "https://web-proj-nine.netlify.app"
-  },
-  {
-  "id": 10,
-  "title": "Web",
-  "description": "HTML , CSS & JS + Reponsive",
-  "imgUrl": "https://i.postimg.cc/bN2ddVXv/Proj10.png",
-  "gitLink": "https://github.com/mfghir/ten-web-proj",
-  "netlifyLink": "https://web-proj-ten.netlify.app"
   }
   ]
